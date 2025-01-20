@@ -1,0 +1,1 @@
+Main file processor_top includes all other smaller modules. The purpose of this project is to assemble and simulate the pipelined datapath of microprocessor and to design the controller of this microprocessor. 
